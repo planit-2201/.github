@@ -25,7 +25,22 @@ Click [here](https://github.com/planit-2201/planit_fe) for frontend repo.
 
 
 ## Technologies & Architecture
+- Hosting: Netlify (FE) and Heroku (BE)
+- Database: PostgreSQL
+- Front-end: React
+- Back-end: Ruby on Rails
+- Testing: Cypress (FE), RSpec (BE)
+- GraphQL: Apollo Client (FE) and GraphQL-Ruby (BE)
+- Continuous Integration: Github Actions (FE), Circle CI (BE)
+- Version Control: Git
+- Communication Tools: Git, Zoom, Slack, Miro
 ![image](https://user-images.githubusercontent.com/97060659/180090725-466923f3-73f8-415b-ac65-d02b0474076f.png)
+
+ ## Agile Development
+
+PlanIt was developed over the course of 15 days using accelerated agile practices. After [an initial proposal was written](https://docs.google.com/presentation/d/1hBv6paUUFhn35rVdWqoev71b5fatHQhRAZT3lOJyUSE/edit?usp=sharing), the team collaboratively participated in an "inception" process. After an initial 'Determine The Relationship' meeting, the team "brain-dumped" all their feature proposals then went through a feature prioritization process in order to determine which would be part of the "minimum viable product" (MVP).
+
+After establishing goals, communication plans, project management conventions, the team decided to use a Miro for project management, and have daily stand-up meetings and weekly retrospective meetings. The team met with a project manager and a project mentor every three days for check-ins and communicated with them regularly via Slack.
 
 ## Contributors 
 
