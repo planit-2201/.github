@@ -27,7 +27,7 @@ Click [here](https://github.com/planit-2201/planit_fe) for frontend repo.
 ## Technologies & Architecture
 - Hosting: Netlify (FE) and Heroku (BE)
 - Database: PostgreSQL
-- Front-end: React
+- Front-end: React, Apollo Client
 - Back-end: Ruby on Rails
 - Testing: Cypress (FE), RSpec (BE)
 - GraphQL: Apollo Client (FE) and GraphQL-Ruby (BE)
